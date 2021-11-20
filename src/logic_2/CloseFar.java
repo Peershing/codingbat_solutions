@@ -15,3 +15,4 @@ public class CloseFar {
 		return check? true : false;
 	}
 }
+	
