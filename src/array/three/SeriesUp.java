@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	Given n>=0, create an array with the pattern {1,    1, 2,    1, 2, 3,   ... 1, 2, 3 .. n}

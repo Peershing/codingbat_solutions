@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	Given two arrays of ints sorted in increasing order, outer and inner, return true if all of the numbers

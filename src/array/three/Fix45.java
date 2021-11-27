@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	(This is a slightly harder version of the fix34 problem.) Return an array that contains exactly the

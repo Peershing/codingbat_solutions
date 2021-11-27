@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	We'll say that a "mirror" section in an array is a group of contiguous elements such that somewhere

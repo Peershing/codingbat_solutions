@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	Consider the leftmost and righmost appearances of some value in an array. We'll say that the "span" is

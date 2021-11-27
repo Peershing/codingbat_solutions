@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	Return an array that contains exactly the same numbers as the given array, but rearranged so that every

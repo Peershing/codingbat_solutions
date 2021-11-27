@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	Given a non-empty array, return true if there is a place to split the array so that the sum of the numbers

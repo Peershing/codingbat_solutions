@@ -1,4 +1,4 @@
-package string.three;
+package array.three;
 
 /*
 	Given n>=0, create an array length n*n with the following pattern, shown here for n=3 :
